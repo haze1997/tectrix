@@ -1,4 +1,3 @@
-![Tectrix informatica logo](/img/tectrix_banner.jpg "Tectrix logo")
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/haze1997/tectrix/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
