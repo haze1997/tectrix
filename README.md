@@ -11,4 +11,5 @@ Visite-nos para mais informações.
 
 Tem alguma dúvida? Viste o site e entre em contato conosco para esclarecermos qualquer questão sobre o site que você tiver.
 
-Saudações, _**haze**_
+Saudações,
+_**haze**_
